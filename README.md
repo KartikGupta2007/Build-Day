@@ -1,6 +1,6 @@
 # Web Dev Mid Term Project
 
-![Demo](demo.png)
+![Demo](Demo.png)
 
 ## Project Details
 
