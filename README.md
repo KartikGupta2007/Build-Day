@@ -6,7 +6,7 @@
 
 **Submission by:** Kartik Gupta  
 **Roll No:** 10035  
-**Student Mail Id** kartik.25bcs10035@sst.scaler.com
+**Student Mail Id:** kartik.25bcs10035@sst.scaler.com   
 **Submitted to:** Mrinal Bhattacharya
 
 ## Description
